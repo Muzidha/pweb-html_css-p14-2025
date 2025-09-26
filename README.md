@@ -20,5 +20,15 @@
 
 <img width="1867" height="900" alt="image" src="https://github.com/user-attachments/assets/3309519f-6163-4029-90ae-f3fd0df53ed1" />
 
+# Revisi
 
+Merubah isi experience
+
+<img width="928" height="352" alt="image" src="https://github.com/user-attachments/assets/dc51b633-178f-4327-8934-0f510d901e63" />
+<img width="1132" height="349" alt="image" src="https://github.com/user-attachments/assets/cf16b635-9274-4363-a0c2-200d6d88e582" />
+
+
+Merubah isi education
+<img width="858" height="265" alt="image" src="https://github.com/user-attachments/assets/f6d486f7-7691-4ce5-a02e-4bf42f12f29d" />
+<img width="1112" height="317" alt="image" src="https://github.com/user-attachments/assets/3db42528-5094-4b69-b90e-c805028abf24" />
 
